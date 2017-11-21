@@ -60,3 +60,5 @@ target/
 
 # Temporary data
 .ipynb_checkpoints/
+
+env/
